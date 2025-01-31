@@ -80,7 +80,7 @@ const navigate = useNavigate()
                     Sign Up
                   </h4>
                   <p className='text-muted text-center mb-4'>
-                    Start your next big adventure
+                    Start your next big adventure with Road Dogs
                   </p>
                   <Form
                     className='form-horizontal'

@@ -71,7 +71,7 @@ const Login = (props) => {
                       <Link to='/'>Logo</Link>
                     </div>
                     <h4 className='font-size-18 text-muted mt-2 text-center'>
-                      Welcome Back!
+                      Welcome Back! Continue your adventure with Road Dogs!
                     </h4>
                     <p className='mb-5 text-center'>
                       Sign in to continue to Road Dogs.
