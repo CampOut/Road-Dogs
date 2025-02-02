@@ -74,7 +74,7 @@ const Login = (props) => {
                       Welcome Back!
                     </h4>
                     <p className='mb-5 text-center'>
-                      Sign in to continue to Road Dogs.
+                      Sign in to continue your adventure with Road Dogs!
                     </p>
                     <Form
                       className='form-horizontal'
